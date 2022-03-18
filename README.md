@@ -17,7 +17,7 @@ Trata-se de um Projeto para criar e simular o <b>Sistema de VOTAÇÃO ONLINE do 
 
 <p align="center"><img alt="Imagem do Projeto" id="imagem" title="#Projeto" height="400px" src="https://raw.githubusercontent.com/aguiardafa/votacao-bbb/main/votacao-bbb-diagrama-simples.png" /></p>
 
-O Projeto foi desenvolvido com fins acadêmicos, sendo construído como atividade da live `Criando o sistema de VOTAÇÃO ONLINE do BBB 22`, ocorrida no dia 16 de março de 2022, promovida pelo [Digital Innovation One](https
+O Projeto foi desenvolvido com fins acadêmicos, sendo construído como atividade da live `Criando o sistema de VOTAÇÃO ONLINE do BBB 22`, ocorrida no dia 16 de março de 2022, promovida pela [Digital Innovation One](https://www.youtube.com/c/DigitalInnovationOne).
 
 ### 🛒 Requisitos do Projeto:
 
