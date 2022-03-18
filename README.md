@@ -39,6 +39,8 @@ As seguintes tecnologias/ferramentas/conceitos foram utilizadas na construção 
 - [MongoDB](https://www.mongodb.com/)
 - [Lombok](https://projectlombok.org/)
 - [Karma Commit Messages](http://karma-runner.github.io/1.0/dev/git-commit-msg.html) *Convenção para as mensagens dos commits no repositório
+- [Conduktor](https://www.conduktor.io/download) *Client Desktop para confirmar alterações no Servidor Kafka
+- [Conduktor](https://www.conduktor.io/download) *Client Desktop para confirmar alterações no Servidor Kafka
 
 '* Ferramentas opcionais
 
